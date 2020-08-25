@@ -5,6 +5,7 @@ import TodoContext from "../context/todoContext";
 import Todos from "../components/Task/Todos";
 import AddNewTask from "../components/Task/AddNewTask";
 
+
 const App = () => {
     const [getTodos, setTodos] = useState([]);
     const [getTodo, setTodo] = useState("");

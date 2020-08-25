@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Persian-To-Do-App/precache-manifest.cf23e82cd5c7771b7fbe604ef628d895.js"
+  "/Persian-To-Do-App/precache-manifest.c72b6209665c722f1c4e8c7a1152d430.js"
 );
 
 self.addEventListener('message', (event) => {
